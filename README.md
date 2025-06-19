@@ -1,1 +1,3 @@
-# Manti
+"devDependencies": {
+  "typescript": "^x.x.x"
+}
